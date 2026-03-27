@@ -21,7 +21,8 @@
 				"C:/Unreal Projects/Rapidgameproto/Content/TestEnvironment.umap",
 				"C:/Unreal Projects/Rapidgameproto/Content/Player/BP_PlayerChar.uasset",
 				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/BP_PlayerPickup.uasset",
-				"C:/Unreal Projects/Rapidgameproto/Content/Interfaces/Interface_Interact.uasset"
+				"C:/Unreal Projects/Rapidgameproto/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/AnimatedInteractables/BP_Door.uasset"
 			]
 		}
 	]
