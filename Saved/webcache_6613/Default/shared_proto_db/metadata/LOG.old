@@ -1,2 +1,3 @@
-2026/03/24-20:46:07.717 8660 Creating DB C:\Users\mjmur\OneDrive\Documents\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/03/24-20:46:07.725 8660 Reusing MANIFEST C:\Users\mjmur\OneDrive\Documents\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/25-15:10:42.508 1d68 Reusing MANIFEST C:\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/25-15:10:42.508 1d68 Recovering log #3
+2026/03/25-15:10:42.509 1d68 Reusing old log C:\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 

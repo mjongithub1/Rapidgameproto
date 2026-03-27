@@ -1,0 +1,235 @@
+[41912:15404:0325/151036.470:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[41912:13160:0325/151036.751:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[41912:15404:0325/151036.880:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42052:42108:0325/151049.504:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-198DC776A03A208BFAFBEC6EE06F4E16 will be ignored
+[32096:35004:0326/045852.340:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.23:63812/dd.xml
+[41912:39248:0326/045855.011:VERBOSE1:cast_socket.cc(227)] [172.16.8.23:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/045855.011:VERBOSE1:cast_socket.cc(391)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(405)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: -102
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(665)] [172.16.8.23:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_ERROR
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_ERROR)
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(627)] [172.16.8.23:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(227)] [172.16.8.23:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/045857.676:VERBOSE1:cast_socket.cc(391)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/045900.342:VERBOSE1:cast_socket.cc(405)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: -102
+[41912:39248:0326/045900.342:VERBOSE1:cast_socket.cc(665)] [172.16.8.23:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_ERROR
+[41912:39248:0326/045900.342:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_ERROR)
+[41912:39248:0326/045900.342:VERBOSE1:cast_socket.cc(627)] [172.16.8.23:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/045912.619:VERBOSE1:cast_socket.cc(227)] [172.16.8.23:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/045912.619:VERBOSE1:cast_socket.cc(391)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/045915.021:VERBOSE1:cast_socket.cc(405)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: -102
+[41912:39248:0326/045915.022:VERBOSE1:cast_socket.cc(665)] [172.16.8.23:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_ERROR
+[41912:39248:0326/045915.022:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_ERROR)
+[41912:39248:0326/045915.022:VERBOSE1:cast_socket.cc(627)] [172.16.8.23:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[32096:35004:0326/045926.347:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/045926.357:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/045926.369:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/045927.013:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/045927.013:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/045927.013:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/045927.013:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/045928.015:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/045928.604:VERBOSE1:cast_socket.cc(227)] [172.16.8.23:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/045928.605:VERBOSE1:cast_socket.cc(391)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/045930.013:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/045931.012:VERBOSE1:cast_socket.cc(405)] [172.16.8.23:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: -102
+[41912:39248:0326/045931.012:VERBOSE1:cast_socket.cc(665)] [172.16.8.23:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_ERROR
+[41912:39248:0326/045931.012:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_ERROR)
+[41912:39248:0326/045931.012:VERBOSE1:cast_socket.cc(627)] [172.16.8.23:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/045942.349:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/045951.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050010.351:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050012.352:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050059.365:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050117.366:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050140.371:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/050216.042:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/050216.050:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050216.051:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/050216.063:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050216.063:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050216.063:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/050217.376:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050227.373:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050348.392:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050358.393:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050435.393:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050441.395:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=26})
+[41912:39248:0326/050445.398:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[32096:35004:0326/050447.062:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/050447.069:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050447.070:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/050447.082:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050447.082:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050447.082:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[32096:35004:0326/050450.729:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.4:2869/upnphost/udhisapi.dll?content=uuid:cdb5c71c-fadc-4d94-bc06-231a801f2fc8
+[41912:39248:0326/050453.398:VERBOSE1:cast_socket.cc(227)] [172.16.8.4:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/050453.398:VERBOSE1:cast_socket.cc(391)] [172.16.8.4:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(306)] [172.16.8.4:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(665)] [172.16.8.4:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(627)] [172.16.8.4:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(227)] [172.16.8.4:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/050503.399:VERBOSE1:cast_socket.cc(391)] [172.16.8.4:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/050513.400:VERBOSE1:cast_socket.cc(306)] [172.16.8.4:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[41912:39248:0326/050513.400:VERBOSE1:cast_socket.cc(665)] [172.16.8.4:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[41912:39248:0326/050513.400:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[41912:39248:0326/050513.400:VERBOSE1:cast_socket.cc(627)] [172.16.8.4:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/050523.369:VERBOSE1:cast_socket.cc(227)] [172.16.8.4:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/050523.369:VERBOSE1:cast_socket.cc(391)] [172.16.8.4:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/050526.555:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050533.369:VERBOSE1:cast_socket.cc(306)] [172.16.8.4:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[41912:39248:0326/050533.369:VERBOSE1:cast_socket.cc(665)] [172.16.8.4:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[41912:39248:0326/050533.369:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[41912:39248:0326/050533.369:VERBOSE1:cast_socket.cc(627)] [172.16.8.4:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/050533.556:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050542.905:VERBOSE1:cast_socket.cc(227)] [172.16.8.4:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[41912:39248:0326/050542.905:VERBOSE1:cast_socket.cc(391)] [172.16.8.4:8009, auth=SSL_VERIFIED] DoTcpConnect
+[41912:39248:0326/050552.906:VERBOSE1:cast_socket.cc(306)] [172.16.8.4:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[41912:39248:0326/050552.906:VERBOSE1:cast_socket.cc(665)] [172.16.8.4:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[41912:39248:0326/050552.906:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[41912:39248:0326/050552.906:VERBOSE1:cast_socket.cc(627)] [172.16.8.4:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[41912:39248:0326/050556.553:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=26})
+[32096:35004:0326/050557.093:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[32096:35004:0326/050558.116:VERBOSE1:logging_network_change_observer.cc(100)] Observed a change to network connectivity state CONNECTION_WIFI
+[32096:35004:0326/050558.630:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_NONE
+[32096:35004:0326/050558.630:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_WIFI
+[32096:35004:0326/050559.112:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/050559.113:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/050559.115:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/050600.555:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.23:63812/dd.xml
+[32096:35004:0326/050600.556:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.4:2869/upnphost/udhisapi.dll?content=uuid:cdb5c71c-fadc-4d94-bc06-231a801f2fc8
+[32096:35004:0326/050600.556:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.9:8060/dial/dd.xml
+[41912:39248:0326/050602.223:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:2
+[41912:15404:0326/050602.223:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: , update: 3
+[41912:15404:0326/050602.223:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[41912:15404:0326/050602.223:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[41912:39248:0326/050607.556:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050642.564:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050651.566:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050701.570:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/050739.577:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/050739.585:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050739.585:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/050739.599:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050739.599:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/050739.599:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/050834.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050857.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050908.590:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050918.592:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/050927.590:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/050937.592:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051012.597:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[32096:35004:0326/051017.263:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/051017.277:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051017.278:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/051017.289:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051017.289:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051017.289:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/051022.600:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051031.599:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051133.612:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051242.953:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051252.956:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051254.955:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[32096:35004:0326/051254.955:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/051254.960:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051254.961:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/051254.972:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051254.972:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051254.972:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/051304.957:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051329.961:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051359.963:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051401.963:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051422.965:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051430.970:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051440.972:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051454.973:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051504.974:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051506.977:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051516.978:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051529.977:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[32096:35004:0326/051531.987:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/051531.993:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051531.994:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/051532.006:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051532.006:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051532.006:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/051539.977:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051555.984:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051605.984:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051647.992:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051657.993:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/051821.338:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/051821.344:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051821.345:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/051821.357:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051821.357:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/051821.358:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/051838.007:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051848.008:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/051932.020:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/051942.026:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/051946.105:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[32096:35004:0326/051947.121:VERBOSE1:logging_network_change_observer.cc(100)] Observed a change to network connectivity state CONNECTION_WIFI
+[32096:35004:0326/051947.623:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_NONE
+[32096:35004:0326/051947.623:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_WIFI
+[32096:35004:0326/051948.120:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/051948.121:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/051948.128:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[32096:35004:0326/051949.357:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.23:63812/dd.xml
+[32096:35004:0326/051949.359:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://172.16.8.9:8060/dial/dd.xml
+[41912:39248:0326/051951.026:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:2
+[41912:15404:0326/051951.356:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: , update: 3
+[41912:15404:0326/051951.356:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[41912:15404:0326/051951.356:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[41912:39248:0326/052038.030:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052048.035:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/052057.370:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/052057.383:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052057.384:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/052057.395:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052057.396:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052057.396:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/052154.380:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052217.379:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052218.381:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052228.382:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052242.380:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052254.383:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052255.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052317.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052318.388:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052339.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/052345.396:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/052345.398:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052345.399:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/052345.425:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052345.425:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052345.425:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/052351.433:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052401.438:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052411.440:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052421.440:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052422.441:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052452.447:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052503.447:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052537.453:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052549.457:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052609.465:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/052630.801:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[32096:35004:0326/052630.814:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052630.816:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[32096:35004:0326/052630.833:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052630.833:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[32096:35004:0326/052630.833:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[41912:39248:0326/052635.464:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052647.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[41912:39248:0326/052826.486:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=27})
+[41912:39248:0326/052836.493:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000029C000BED40}, {new_limit=28})
+[32096:35004:0326/080642.955:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[41912:39248:0326/080644.281:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSuspend([this=0000029C000BED40])
+[41912:15404:0326/080644.284:VERBOSE1:frame_host_impl.cc(515)] frame 6-8FAB49F766EB72006B6A9590A02AFDFA (sub) detached (reason=RENDER_FRAME_DELETED, is_connected=0)
+[41912:15404:0326/080644.296:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/

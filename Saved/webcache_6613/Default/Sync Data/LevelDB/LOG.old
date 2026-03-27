@@ -1,2 +1,3 @@
-2026/03/24-20:45:46.339 8aa4 Creating DB C:\Users\mjmur\OneDrive\Documents\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/03/24-20:45:46.377 8aa4 Reusing MANIFEST C:\Users\mjmur\OneDrive\Documents\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/03/25-15:10:36.910 1d68 Reusing MANIFEST C:\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/03/25-15:10:36.927 1d68 Recovering log #3
+2026/03/25-15:10:36.928 1d68 Reusing old log C:\Unreal Projects\Rapidgameproto\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
