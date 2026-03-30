@@ -1,12 +1,5 @@
-[19604:15300:0329/173935.331:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19604:6732:0329/173935.661:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19604:15300:0329/173935.770:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26840:35588:0329/173951.303:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6D3FC050E58720B1C2FC970C608D1BDE will be ignored
-[19604:4860:0329/173953.970:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[19604:15300:0329/173954.633:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19604:15300:0329/173954.635:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19604:15300:0329/173954.635:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19604:15300:0329/173954.635:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19604:4860:0329/173954.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[36544:25088:0329/174211.669:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[19604:15300:0329/185600.698:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13268:18208:0329/190552.642:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13268:20716:0329/190552.786:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13268:18208:0329/190552.816:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1600:16380:0329/190559.182:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1D8F868CC3A6B321B9246F2FD5C404DE will be ignored
+[13268:18208:0329/204914.842:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
