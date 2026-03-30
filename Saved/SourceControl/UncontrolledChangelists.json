@@ -25,7 +25,9 @@
 				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
 				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/AnimatedInteractables/BP_Button.uasset",
 				"C:/Unreal Projects/Rapidgameproto/Content/Enemy/turret/BP_Turret.uasset",
-				"C:/Unreal Projects/Rapidgameproto/Content/Enemy/turret/BP_TurretProjectile.uasset"
+				"C:/Unreal Projects/Rapidgameproto/Content/Enemy/turret/BP_TurretProjectile.uasset",
+				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Unreal Projects/Rapidgameproto/Content/Interactables/AnimatedInteractables/MAT_Color.uasset"
 			]
 		}
 	]
