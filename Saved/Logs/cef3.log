@@ -1,13 +1,6 @@
-[8196:27568:0404/184416.436:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8196:38972:0404/184416.572:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8196:27568:0404/184416.620:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23468:39948:0404/184426.291:ERROR:backend_impl.cc(989)] Critical error found -8
-[23468:39948:0404/184426.347:WARNING:storage_block-inl.h(138)] Failed data load.
-[38544:42668:0404/184426.966:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FCE1120997489BB543852F57B9187557 will be ignored
-[8196:27568:0404/184429.264:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[8196:27568:0404/184429.264:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[8196:27568:0404/184429.264:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[8196:27568:0404/184429.265:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[8196:43276:0404/184429.324:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[30408:44864:0404/184639.891:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[8196:27568:0404/201226.870:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[46044:79564:0411/134416.066:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46044:64928:0411/134416.213:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46044:79564:0411/134416.265:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[59448:76612:0411/134426.416:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A83AFE15477CC66CD6250852A4B52294 will be ignored
+[46044:79564:0411/134631.555:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46044:79564:0411/144513.695:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
